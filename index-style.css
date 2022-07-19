@@ -4,7 +4,7 @@
 * {
     padding: 0px;
     margin: 0px;
-    background-color: rgb(27, 27, 27);
+    /* background-color: rgb(27, 27, 27); */
 }
 
 /* Header Container */
@@ -13,7 +13,7 @@
     position: fixed;
     width: 100%;
     top: 0px;
-    background-color: rgb(20, 20, 20);
+    background-color: rgb(20,20,20);
 }
 
 /* Inside content of header ex.(Head logo, links) */
@@ -25,9 +25,12 @@
     /* When done positioning */
     padding: 10px;
     justify-content: center;
-    color: white;
-    font-size: 30px;
-    font-family: 'Potta One', cursive;
+    
+}
+
+/* Header logo container*/
+.header-inner-logo-container img {
+    background-color: rgb(20,20,20);
 }
 
 /* Header links container */
