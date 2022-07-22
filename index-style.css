@@ -49,7 +49,7 @@
 .header-inner-links-container a {
     display: inline;
     position: relative;
-    top: 25%;
+    top: 35%;
 }
 
 /* Header links container for a elements */
@@ -63,3 +63,4 @@ a:link, a:visited {
     background-color: rgb(20,20,20);
     text-decoration: none;
 }
+
