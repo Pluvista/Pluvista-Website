@@ -1,3 +1,3 @@
-# PluvioVision-Website
+# Pluvista-Website
 
-Official PluvioVision website to steadily improve and structure the front-end.
+Official Pluvista website to steadily improve and structure the front-end.
