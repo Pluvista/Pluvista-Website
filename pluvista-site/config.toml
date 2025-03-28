@@ -1,5 +1,0 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'Coming Soon'
-theme = 'hextra'
-dir = ':cacheDir/images'
