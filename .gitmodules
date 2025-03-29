@@ -1,3 +1,6 @@
 [submodule "pluvista/themes/PaperMod"]
 	path = pluvista/themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "pluvista/themes/themes/PaperMod"]
+	path = pluvista/themes/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
