@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Tanker-Regular';
+	src: url(../../assets/fonts/Tanker-Regular-6d880551515b559109c8815f6aac0c37.woff2) format('woff2'),
+	url(../../assets/fonts/Tanker-Regular-b644cc7c9dc88dd90a517b43070a39ba.woff) format('woff'),
+	url(../../assets/fonts/Tanker-Regular-e93d75dff4aa70189fbbc472c1e37e10.ttf) format('truetype');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
